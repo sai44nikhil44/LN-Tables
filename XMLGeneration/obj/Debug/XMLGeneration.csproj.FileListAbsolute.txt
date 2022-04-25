@@ -1,7 +1,0 @@
-C:\extrafiles\c#\XMLGeneration\bin\Debug\XMLGeneration.exe.config
-C:\extrafiles\c#\XMLGeneration\bin\Debug\XMLGeneration.exe
-C:\extrafiles\c#\XMLGeneration\bin\Debug\XMLGeneration.pdb
-C:\extrafiles\c#\XMLGeneration\obj\Debug\XMLGeneration.csprojAssemblyReference.cache
-C:\extrafiles\c#\XMLGeneration\obj\Debug\XMLGeneration.csproj.CoreCompileInputs.cache
-C:\extrafiles\c#\XMLGeneration\obj\Debug\XMLGeneration.exe
-C:\extrafiles\c#\XMLGeneration\obj\Debug\XMLGeneration.pdb
