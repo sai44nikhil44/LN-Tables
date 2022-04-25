@@ -1,0 +1,12 @@
+C:\extrafiles\c#\ChatBot\bin\Debug\ChatBot.exe.config
+C:\extrafiles\c#\ChatBot\bin\Debug\ChatBot.exe
+C:\extrafiles\c#\ChatBot\bin\Debug\ChatBot.pdb
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.cache
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.exe
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.pdb
+C:\extrafiles\c#\ChatBot\bin\Debug\Tulpep.NotificationWindow.dll
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.csproj.CopyComplete
+C:\extrafiles\c#\ChatBot\obj\Debug\ChatBot.csprojAssemblyReference.cache
